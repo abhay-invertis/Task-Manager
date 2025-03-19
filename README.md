@@ -12,10 +12,8 @@ This Task Management API is designed to help users manage their tasks efficientl
 ✅ Admin Panel — Full control over users and tasks for admin users.
 
 📂 Project Structure
-markdown
-Copy
-Edit
-/TaskManager
+
+    /TaskManager
 ├── /tasks
 │   ├── migrations/
 │   ├── __init__.py
